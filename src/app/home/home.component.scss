@@ -1,0 +1,19 @@
+.nome {
+  font-size: 80px;
+  font-weight: 800;
+}
+
+.coluna {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
+
+.descricao {
+  margin: 30px 0;
+}
+
+.distancia {
+  padding: 0 150px;
+}
