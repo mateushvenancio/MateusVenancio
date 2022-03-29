@@ -3,6 +3,12 @@
   font-weight: 800;
 }
 
+@media (max-width: 650px) {
+  .nome {
+    font-size: 4em;
+  }
+}
+
 .coluna {
   display: flex;
   flex-direction: column;
@@ -16,6 +22,12 @@
 
 .distancia {
   padding: 0 150px;
+}
+
+@media (max-width: 650px) {
+  .distancia {
+    padding: 0 10vw;
+  }
 }
 
 .ver-mais a {
