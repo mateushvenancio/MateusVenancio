@@ -31,12 +31,12 @@
 }
 
 .ver-mais a {
-  color: white;
+  color: black;
   text-decoration: none;
 }
 
 .ver-mais a:hover {
-  color: white;
+  color: black;
   text-decoration: underline;
 }
 
@@ -47,4 +47,11 @@
 .icone {
   font-size: 25px;
   margin-right: 20px;
+}
+
+.arcoiro {
+  background: -webkit-linear-gradient(40deg, #db3236, #e22c73, #cd49ab, #9d6ad7, #4885ed);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }

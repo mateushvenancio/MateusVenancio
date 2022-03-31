@@ -1,6 +1,11 @@
 .main {
-  color: white;
   height: 100vh;
   width: 100vw;
-  background-color: rgb(25, 25, 25);
+}
+
+.arcoiro {
+  background: -webkit-linear-gradient(40deg, #db3236, #e22c73, #cd49ab, #9d6ad7, #4885ed);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }

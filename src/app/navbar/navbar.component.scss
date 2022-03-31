@@ -1,0 +1,16 @@
+.barra {
+  position: absolute;
+  width: 100%;
+  height: 50px;
+}
+
+.itens {
+  height: 100%;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+}
+
+.item {
+  margin-right: 20px;
+}
